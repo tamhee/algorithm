@@ -19,7 +19,7 @@ public class A_9012 {
 		}
 		
 		System.out.println(sb);  
-	}
+	} 
 	
 	public static String solve(String s) {
 		
