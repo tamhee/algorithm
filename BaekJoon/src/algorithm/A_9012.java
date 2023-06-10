@@ -18,7 +18,7 @@ public class A_9012 {
 			sb.append(solve(br.readLine())).append("\n");
 		}
 		
-		System.out.println(sb);  
+		System.out.println(sb);
 	} 
 	
 	public static String solve(String s) {
